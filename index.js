@@ -32,7 +32,7 @@ function addTask(title) {
 function onUpdateIsDone(task) {
     console.log("チェックボックスがクリックされました。", task);
 
-    // 達成状態を反転
+    // 達成状態を反転したよ
     task.isDone = !task.isDone;
 
     return task;
