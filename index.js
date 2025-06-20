@@ -1,7 +1,7 @@
 /**
  * やることリスト
  * title: やることのタイトル
- * isDone: 達成状況　trueになると、チェックが着く
+ * isDone: 達成状況　trueになると、チェックが着くよ
  */
 let tasks = [
     { title: "お洗濯", isDone: false },
